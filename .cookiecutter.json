@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/dovid/programing/python/tutorials/modern_python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Dovid Greenberger",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "dovidsgreenberger@gmail.com",
+  "friendly_name": "Stocker",
+  "github_user": "davids1993",
+  "license": "MIT",
+  "package_name": "stocker",
+  "project_name": "stocker",
+  "version": "0.0.0"
+}
