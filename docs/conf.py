@@ -1,5 +1,5 @@
 """Sphinx configuration."""
-project = "Stocker"
+project = "stocked"
 author = "Dovid Greenberger"
 copyright = "2022, Dovid Greenberger"
 extensions = [

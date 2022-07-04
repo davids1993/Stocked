@@ -1,19 +1,19 @@
 [tool.poetry]
-name = "stocker"
+name = "stocked"
 version = "0.0.0"
-description = "Stocker"
+description = "stocked"
 authors = ["Dovid Greenberger <dovidsgreenberger@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/davids1993/stocker"
-repository = "https://github.com/davids1993/stocker"
-documentation = "https://stocker.readthedocs.io"
+homepage = "https://github.com/davids1993/stocked"
+repository = "https://github.com/davids1993/stocked"
+documentation = "https://stocked.readthedocs.io"
 classifiers = [
     "Development Status :: 1 - Planning",
 ]
 
 [tool.poetry.urls]
-Changelog = "https://github.com/davids1993/stocker/releases"
+Changelog = "https://github.com/davids1993/stocked/releases"
 
 [tool.poetry.dependencies]
 python = "^3.7"
@@ -47,7 +47,7 @@ nox = "^2022.1.7"
 myst-parser = {version = ">=0.16.1"}
 
 [tool.poetry.scripts]
-stocker = "stocker.__main__:main"
+stocked = "stocked.__main__:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
@@ -55,7 +55,7 @@ tests = ["tests", "*/tests"]
 
 [tool.coverage.run]
 branch = true
-source = ["stocker", "tests"]
+source = ["stocked", "tests"]
 
 [tool.coverage.report]
 show_missing = true

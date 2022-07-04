@@ -1,1 +1,1 @@
-"""Test suite for the stocker package."""
+"""Test suite for the stocked package."""

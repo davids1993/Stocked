@@ -1,8 +1,8 @@
 # Reference
 
-## stocker
+## stocked
 
 ```{eval-rst}
-.. automodule:: stocker
+.. automodule:: stocked
    :members:
 ```

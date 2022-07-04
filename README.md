@@ -1,23 +1,23 @@
-# Stocker
+# stocked
 
-[![PyPI](https://img.shields.io/pypi/v/stocker.svg)][pypi_]
-[![Status](https://img.shields.io/pypi/status/stocker.svg)][status]
-[![Python Version](https://img.shields.io/pypi/pyversions/stocker)][python version]
-[![License](https://img.shields.io/pypi/l/stocker)][license]
+[![PyPI](https://img.shields.io/pypi/v/stocked.svg)][pypi_]
+[![Status](https://img.shields.io/pypi/status/stocked.svg)][status]
+[![Python Version](https://img.shields.io/pypi/pyversions/stocked)][python version]
+[![License](https://img.shields.io/pypi/l/stocked)][license]
 
-[![Read the documentation at https://stocker.readthedocs.io/](https://img.shields.io/readthedocs/stocker/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/davids1993/stocker/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/davids1993/stocker/branch/main/graph/badge.svg)][codecov]
+[![Read the documentation at https://stocked.readthedocs.io/](https://img.shields.io/readthedocs/stocked/latest.svg?label=Read%20the%20Docs)][read the docs]
+[![Tests](https://github.com/davids1993/stocked/workflows/Tests/badge.svg)][tests]
+[![Codecov](https://codecov.io/gh/davids1993/stocked/branch/main/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
 
-[pypi_]: https://pypi.org/project/stocker/
-[status]: https://pypi.org/project/stocker/
-[python version]: https://pypi.org/project/stocker
-[read the docs]: https://stocker.readthedocs.io/
-[tests]: https://github.com/davids1993/stocker/actions?workflow=Tests
-[codecov]: https://app.codecov.io/gh/davids1993/stocker
+[pypi_]: https://pypi.org/project/stocked/
+[status]: https://pypi.org/project/stocked/
+[python version]: https://pypi.org/project/stocked
+[read the docs]: https://stocked.readthedocs.io/
+[tests]: https://github.com/davids1993/stocked/actions?workflow=Tests
+[codecov]: https://app.codecov.io/gh/davids1993/stocked
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
 
@@ -31,10 +31,10 @@
 
 ## Installation
 
-You can install _Stocker_ via [pip] from [PyPI]:
+You can install _stocked_ via [pip] from [PyPI]:
 
 ```console
-$ pip install stocker
+$ pip install stocked
 ```
 
 ## Usage
@@ -49,7 +49,7 @@ To learn more, see the [Contributor Guide].
 ## License
 
 Distributed under the terms of the [MIT license][license],
-_Stocker_ is free and open source software.
+_stocked_ is free and open source software.
 
 ## Issues
 
@@ -63,11 +63,11 @@ This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter]
 [@cjolowicz]: https://github.com/cjolowicz
 [pypi]: https://pypi.org/
 [hypermodern python cookiecutter]: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-[file an issue]: https://github.com/davids1993/stocker/issues
+[file an issue]: https://github.com/davids1993/stocked/issues
 [pip]: https://pip.pypa.io/
 
 <!-- github-only -->
 
-[license]: https://github.com/davids1993/stocker/blob/main/LICENSE
-[contributor guide]: https://github.com/davids1993/stocker/blob/main/CONTRIBUTING.md
-[command-line reference]: https://stocker.readthedocs.io/en/latest/usage.html
+[license]: https://github.com/davids1993/stocked/blob/main/LICENSE
+[contributor guide]: https://github.com/davids1993/stocked/blob/main/CONTRIBUTING.md
+[command-line reference]: https://stocked.readthedocs.io/en/latest/usage.html

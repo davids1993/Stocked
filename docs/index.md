@@ -19,5 +19,5 @@ reference
 contributing
 Code of Conduct <codeofconduct>
 License <license>
-Changelog <https://github.com/davids1993/stocker/releases>
+Changelog <https://github.com/davids1993/stocked/releases>
 ```

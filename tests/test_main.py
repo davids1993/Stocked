@@ -2,7 +2,7 @@
 import pytest
 from click.testing import CliRunner
 
-from stocker import __main__
+from stocked import __main__
 
 
 @pytest.fixture

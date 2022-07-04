@@ -1,7 +1,7 @@
 # Usage
 
 ```{eval-rst}
-.. click:: stocker.__main__:main
-    :prog: stocker
+.. click:: stocked.__main__:main
+    :prog: stocked
     :nested: full
 ```
