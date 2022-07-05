@@ -18,6 +18,7 @@ Changelog = "https://github.com/davids1993/stocked/releases"
 [tool.poetry.dependencies]
 python = "^3.7"
 click = ">=8.0.1"
+nox = "^2022.1.7"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
