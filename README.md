@@ -23,7 +23,15 @@
 
 ## Features
 
-- TODO
+- build a toy project where i get to use some shiny python
+
+* use cookiecutter
+* use mypy
+* use pytest
+* use dataclases or pydantic model
+* use click and rich for cmd line program
+* put data on the web using flask or fast api
+* build packadge and publish to pypi
 
 ## Requirements
 
